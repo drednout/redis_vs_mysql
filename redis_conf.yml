@@ -1,0 +1,6 @@
+redis:
+    host: localhost
+    port: 6379
+    password: xbofFhiZWzHfhvWZJlioetSsbzb1JursuMuEEwBW
+    db: 15
+    use_hiredis: False

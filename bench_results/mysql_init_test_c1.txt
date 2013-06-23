@@ -1,0 +1,21 @@
+2013-06-11 23:36:34+0300 [-] Log opened.
+2013-06-11 23:36:34+0300 [-] DEBUG: len of persons_in_tournament is 0
+2013-06-11 23:36:34+0300 [-] Starting factory <txredis.client.RedisClientFactory instance at 0x1925f38>
+2013-06-11 23:36:34+0300 [RedisClient,client] Starting mysql_init_test, 1th time with concurrency 1
+2013-06-11 23:36:35+0300 [-] init_test: inserting 100000 tournament records
+2013-06-11 23:40:25+0300 [-] Finished. Time spent on test: 0:03:50.784749
+2013-06-11 23:40:25+0300 [-] Starting mysql_init_test, 2th time with concurrency 1
+2013-06-11 23:40:26+0300 [-] init_test: inserting 100000 tournament records
+2013-06-11 23:42:18+0300 [-] Finished. Time spent on test: 0:01:53.194972
+2013-06-11 23:42:18+0300 [-] Starting mysql_init_test, 3th time with concurrency 1
+2013-06-11 23:42:19+0300 [-] init_test: inserting 100000 tournament records
+2013-06-11 23:44:11+0300 [-] Finished. Time spent on test: 0:01:52.944498
+2013-06-11 23:44:11+0300 [-] Starting mysql_init_test, 4th time with concurrency 1
+2013-06-11 23:44:12+0300 [-] init_test: inserting 100000 tournament records
+2013-06-11 23:46:04+0300 [-] Finished. Time spent on test: 0:01:52.470277
+2013-06-11 23:46:04+0300 [-] Starting mysql_init_test, 5th time with concurrency 1
+2013-06-11 23:46:04+0300 [-] init_test: inserting 100000 tournament records
+2013-06-11 23:47:57+0300 [-] Finished. Time spent on test: 0:01:53.349081
+2013-06-11 23:47:57+0300 [RedisClient,client] <twisted.internet.tcp.Connector instance at 0x19258c0> will retry in 2 seconds
+2013-06-11 23:47:57+0300 [RedisClient,client] Stopping factory <txredis.client.RedisClientFactory instance at 0x1925f38>
+2013-06-11 23:47:57+0300 [-] Main loop terminated.

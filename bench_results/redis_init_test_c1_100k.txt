@@ -1,0 +1,21 @@
+2013-06-16 18:49:50+0300 [-] Log opened.
+2013-06-16 18:49:50+0300 [-] DEBUG: len of persons_in_tournament is 100000
+2013-06-16 18:49:50+0300 [-] Starting factory <txredis.client.RedisClientFactory instance at 0x7f57cc5bff38>
+2013-06-16 18:49:50+0300 [RedisClient,client] Starting redis_init_test, 1th time with concurrency 1
+2013-06-16 18:49:50+0300 [RedisClient,client] init_test: inserting 100000 tournament records
+2013-06-16 18:50:15+0300 [RedisClient,client] Finished. Time spent on test: 0:00:25.158272
+2013-06-16 18:50:15+0300 [RedisClient,client] Starting redis_init_test, 2th time with concurrency 1
+2013-06-16 18:50:15+0300 [RedisClient,client] init_test: inserting 100000 tournament records
+2013-06-16 18:50:43+0300 [RedisClient,client] Finished. Time spent on test: 0:00:27.750452
+2013-06-16 18:50:43+0300 [RedisClient,client] Starting redis_init_test, 3th time with concurrency 1
+2013-06-16 18:50:43+0300 [RedisClient,client] init_test: inserting 100000 tournament records
+2013-06-16 18:51:09+0300 [RedisClient,client] Finished. Time spent on test: 0:00:26.439174
+2013-06-16 18:51:09+0300 [RedisClient,client] Starting redis_init_test, 4th time with concurrency 1
+2013-06-16 18:51:09+0300 [RedisClient,client] init_test: inserting 100000 tournament records
+2013-06-16 18:51:36+0300 [RedisClient,client] Finished. Time spent on test: 0:00:26.992445
+2013-06-16 18:51:36+0300 [RedisClient,client] Starting redis_init_test, 5th time with concurrency 1
+2013-06-16 18:51:36+0300 [RedisClient,client] init_test: inserting 100000 tournament records
+2013-06-16 18:52:06+0300 [RedisClient,client] Finished. Time spent on test: 0:00:29.724280
+2013-06-16 18:52:06+0300 [RedisClient,client] <twisted.internet.tcp.Connector instance at 0x7f57cc5bffc8> will retry in 2 seconds
+2013-06-16 18:52:06+0300 [RedisClient,client] Stopping factory <txredis.client.RedisClientFactory instance at 0x7f57cc5bff38>
+2013-06-16 18:52:06+0300 [-] Main loop terminated.

@@ -1,0 +1,21 @@
+2013-06-11 23:27:58+0300 [-] Log opened.
+2013-06-11 23:27:58+0300 [-] DEBUG: len of persons_in_tournament is 100000
+2013-06-11 23:27:58+0300 [-] Starting factory <txredis.client.RedisClientFactory instance at 0x7f471c5c0d40>
+2013-06-11 23:27:58+0300 [RedisClient,client] Starting redis_select_test, 1th time with concurrency 1
+2013-06-11 23:27:58+0300 [RedisClient,client] person_count: selecting 1000 rating pages X 3 persons
+2013-06-11 23:28:00+0300 [RedisClient,client] Finished. Time spent on test: 0:00:02.405832
+2013-06-11 23:28:00+0300 [RedisClient,client] Starting redis_select_test, 2th time with concurrency 1
+2013-06-11 23:28:00+0300 [RedisClient,client] person_count: selecting 1000 rating pages X 3 persons
+2013-06-11 23:28:03+0300 [RedisClient,client] Finished. Time spent on test: 0:00:02.416328
+2013-06-11 23:28:03+0300 [RedisClient,client] Starting redis_select_test, 3th time with concurrency 1
+2013-06-11 23:28:03+0300 [RedisClient,client] person_count: selecting 1000 rating pages X 3 persons
+2013-06-11 23:28:05+0300 [RedisClient,client] Finished. Time spent on test: 0:00:02.407276
+2013-06-11 23:28:05+0300 [RedisClient,client] Starting redis_select_test, 4th time with concurrency 1
+2013-06-11 23:28:05+0300 [RedisClient,client] person_count: selecting 1000 rating pages X 3 persons
+2013-06-11 23:28:08+0300 [RedisClient,client] Finished. Time spent on test: 0:00:02.488003
+2013-06-11 23:28:08+0300 [RedisClient,client] Starting redis_select_test, 5th time with concurrency 1
+2013-06-11 23:28:08+0300 [RedisClient,client] person_count: selecting 1000 rating pages X 3 persons
+2013-06-11 23:28:10+0300 [RedisClient,client] Finished. Time spent on test: 0:00:02.530165
+2013-06-11 23:28:10+0300 [RedisClient,client] <twisted.internet.tcp.Connector instance at 0x7f471c5c0e60> will retry in 3 seconds
+2013-06-11 23:28:10+0300 [RedisClient,client] Stopping factory <txredis.client.RedisClientFactory instance at 0x7f471c5c0d40>
+2013-06-11 23:28:10+0300 [-] Main loop terminated.
