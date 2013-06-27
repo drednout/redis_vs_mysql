@@ -1,0 +1,116 @@
+2013-06-25 00:18:30+0300 [-] Log opened.
+2013-06-25 00:18:31+0300 [-] DEBUG: len of persons_in_tournament is 1000001
+2013-06-25 00:18:31+0300 [-] Starting factory <txredis.client.RedisClientFactory instance at 0x1ed7878>
+2013-06-25 00:18:31+0300 [RedisClient,client] Starting mysql_update_test, 1th time with concurrency 10
+2013-06-25 00:18:31+0300 [RedisClient,client] Starting concurrent test mysql_update_test #1. start_person_id is 0, end_person_id is 9999
+2013-06-25 00:18:31+0300 [RedisClient,client] Starting concurrent test mysql_update_test #2. start_person_id is 10000, end_person_id is 19999
+2013-06-25 00:18:31+0300 [RedisClient,client] Starting concurrent test mysql_update_test #3. start_person_id is 20000, end_person_id is 29999
+2013-06-25 00:18:31+0300 [RedisClient,client] Starting concurrent test mysql_update_test #4. start_person_id is 30000, end_person_id is 39999
+2013-06-25 00:18:31+0300 [RedisClient,client] Starting concurrent test mysql_update_test #5. start_person_id is 40000, end_person_id is 49999
+2013-06-25 00:18:31+0300 [RedisClient,client] Starting concurrent test mysql_update_test #6. start_person_id is 50000, end_person_id is 59999
+2013-06-25 00:18:31+0300 [RedisClient,client] Starting concurrent test mysql_update_test #7. start_person_id is 60000, end_person_id is 69999
+2013-06-25 00:18:31+0300 [RedisClient,client] Starting concurrent test mysql_update_test #8. start_person_id is 70000, end_person_id is 79999
+2013-06-25 00:18:31+0300 [RedisClient,client] Starting concurrent test mysql_update_test #9. start_person_id is 80000, end_person_id is 89999
+2013-06-25 00:18:31+0300 [RedisClient,client] Starting concurrent test mysql_update_test #10. start_person_id is 90000, end_person_id is 99999
+2013-06-25 00:18:36+0300 [-] update_test: updating 10000 tournament records
+2013-06-25 00:18:36+0300 [-] update_test: updating 10000 tournament records
+2013-06-25 00:18:36+0300 [-] update_test: updating 10000 tournament records
+2013-06-25 00:18:36+0300 [-] update_test: updating 10000 tournament records
+2013-06-25 00:18:36+0300 [-] update_test: updating 10000 tournament records
+2013-06-25 00:18:36+0300 [-] update_test: updating 10000 tournament records
+2013-06-25 00:18:36+0300 [-] update_test: updating 10000 tournament records
+2013-06-25 00:18:36+0300 [-] update_test: updating 10000 tournament records
+2013-06-25 00:18:36+0300 [-] update_test: updating 10000 tournament records
+2013-06-25 00:18:36+0300 [-] update_test: updating 10000 tournament records
+2013-06-25 00:19:39+0300 [-] Finished. Time spent on test: 0:01:07.816637
+2013-06-25 00:19:39+0300 [-] Starting mysql_update_test, 2th time with concurrency 10
+2013-06-25 00:19:39+0300 [-] Starting concurrent test mysql_update_test #1. start_person_id is 0, end_person_id is 9999
+2013-06-25 00:19:39+0300 [-] Starting concurrent test mysql_update_test #2. start_person_id is 10000, end_person_id is 19999
+2013-06-25 00:19:39+0300 [-] Starting concurrent test mysql_update_test #3. start_person_id is 20000, end_person_id is 29999
+2013-06-25 00:19:39+0300 [-] Starting concurrent test mysql_update_test #4. start_person_id is 30000, end_person_id is 39999
+2013-06-25 00:19:39+0300 [-] Starting concurrent test mysql_update_test #5. start_person_id is 40000, end_person_id is 49999
+2013-06-25 00:19:39+0300 [-] Starting concurrent test mysql_update_test #6. start_person_id is 50000, end_person_id is 59999
+2013-06-25 00:19:39+0300 [-] Starting concurrent test mysql_update_test #7. start_person_id is 60000, end_person_id is 69999
+2013-06-25 00:19:39+0300 [-] Starting concurrent test mysql_update_test #8. start_person_id is 70000, end_person_id is 79999
+2013-06-25 00:19:39+0300 [-] Starting concurrent test mysql_update_test #9. start_person_id is 80000, end_person_id is 89999
+2013-06-25 00:19:39+0300 [-] Starting concurrent test mysql_update_test #10. start_person_id is 90000, end_person_id is 99999
+2013-06-25 00:19:44+0300 [-] update_test: updating 10000 tournament records
+2013-06-25 00:19:44+0300 [-] update_test: updating 10000 tournament records
+2013-06-25 00:19:44+0300 [-] update_test: updating 10000 tournament records
+2013-06-25 00:19:44+0300 [-] update_test: updating 10000 tournament records
+2013-06-25 00:19:44+0300 [-] update_test: updating 10000 tournament records
+2013-06-25 00:19:44+0300 [-] update_test: updating 10000 tournament records
+2013-06-25 00:19:44+0300 [-] update_test: updating 10000 tournament records
+2013-06-25 00:19:44+0300 [-] update_test: updating 10000 tournament records
+2013-06-25 00:19:44+0300 [-] update_test: updating 10000 tournament records
+2013-06-25 00:19:44+0300 [-] update_test: updating 10000 tournament records
+2013-06-25 00:20:46+0300 [-] Finished. Time spent on test: 0:01:06.332486
+2013-06-25 00:20:46+0300 [-] Starting mysql_update_test, 3th time with concurrency 10
+2013-06-25 00:20:46+0300 [-] Starting concurrent test mysql_update_test #1. start_person_id is 0, end_person_id is 9999
+2013-06-25 00:20:46+0300 [-] Starting concurrent test mysql_update_test #2. start_person_id is 10000, end_person_id is 19999
+2013-06-25 00:20:46+0300 [-] Starting concurrent test mysql_update_test #3. start_person_id is 20000, end_person_id is 29999
+2013-06-25 00:20:46+0300 [-] Starting concurrent test mysql_update_test #4. start_person_id is 30000, end_person_id is 39999
+2013-06-25 00:20:46+0300 [-] Starting concurrent test mysql_update_test #5. start_person_id is 40000, end_person_id is 49999
+2013-06-25 00:20:46+0300 [-] Starting concurrent test mysql_update_test #6. start_person_id is 50000, end_person_id is 59999
+2013-06-25 00:20:46+0300 [-] Starting concurrent test mysql_update_test #7. start_person_id is 60000, end_person_id is 69999
+2013-06-25 00:20:46+0300 [-] Starting concurrent test mysql_update_test #8. start_person_id is 70000, end_person_id is 79999
+2013-06-25 00:20:46+0300 [-] Starting concurrent test mysql_update_test #9. start_person_id is 80000, end_person_id is 89999
+2013-06-25 00:20:46+0300 [-] Starting concurrent test mysql_update_test #10. start_person_id is 90000, end_person_id is 99999
+2013-06-25 00:20:51+0300 [-] update_test: updating 10000 tournament records
+2013-06-25 00:20:51+0300 [-] update_test: updating 10000 tournament records
+2013-06-25 00:20:51+0300 [-] update_test: updating 10000 tournament records
+2013-06-25 00:20:51+0300 [-] update_test: updating 10000 tournament records
+2013-06-25 00:20:51+0300 [-] update_test: updating 10000 tournament records
+2013-06-25 00:20:51+0300 [-] update_test: updating 10000 tournament records
+2013-06-25 00:20:51+0300 [-] update_test: updating 10000 tournament records
+2013-06-25 00:20:51+0300 [-] update_test: updating 10000 tournament records
+2013-06-25 00:20:51+0300 [-] update_test: updating 10000 tournament records
+2013-06-25 00:20:51+0300 [-] update_test: updating 10000 tournament records
+2013-06-25 00:21:54+0300 [-] Finished. Time spent on test: 0:01:08.348540
+2013-06-25 00:21:54+0300 [-] Starting mysql_update_test, 4th time with concurrency 10
+2013-06-25 00:21:54+0300 [-] Starting concurrent test mysql_update_test #1. start_person_id is 0, end_person_id is 9999
+2013-06-25 00:21:54+0300 [-] Starting concurrent test mysql_update_test #2. start_person_id is 10000, end_person_id is 19999
+2013-06-25 00:21:54+0300 [-] Starting concurrent test mysql_update_test #3. start_person_id is 20000, end_person_id is 29999
+2013-06-25 00:21:54+0300 [-] Starting concurrent test mysql_update_test #4. start_person_id is 30000, end_person_id is 39999
+2013-06-25 00:21:54+0300 [-] Starting concurrent test mysql_update_test #5. start_person_id is 40000, end_person_id is 49999
+2013-06-25 00:21:54+0300 [-] Starting concurrent test mysql_update_test #6. start_person_id is 50000, end_person_id is 59999
+2013-06-25 00:21:54+0300 [-] Starting concurrent test mysql_update_test #7. start_person_id is 60000, end_person_id is 69999
+2013-06-25 00:21:54+0300 [-] Starting concurrent test mysql_update_test #8. start_person_id is 70000, end_person_id is 79999
+2013-06-25 00:21:54+0300 [-] Starting concurrent test mysql_update_test #9. start_person_id is 80000, end_person_id is 89999
+2013-06-25 00:21:54+0300 [-] Starting concurrent test mysql_update_test #10. start_person_id is 90000, end_person_id is 99999
+2013-06-25 00:21:59+0300 [-] update_test: updating 10000 tournament records
+2013-06-25 00:21:59+0300 [-] update_test: updating 10000 tournament records
+2013-06-25 00:21:59+0300 [-] update_test: updating 10000 tournament records
+2013-06-25 00:21:59+0300 [-] update_test: updating 10000 tournament records
+2013-06-25 00:21:59+0300 [-] update_test: updating 10000 tournament records
+2013-06-25 00:21:59+0300 [-] update_test: updating 10000 tournament records
+2013-06-25 00:21:59+0300 [-] update_test: updating 10000 tournament records
+2013-06-25 00:21:59+0300 [-] update_test: updating 10000 tournament records
+2013-06-25 00:21:59+0300 [-] update_test: updating 10000 tournament records
+2013-06-25 00:21:59+0300 [-] update_test: updating 10000 tournament records
+2013-06-25 00:23:02+0300 [-] Finished. Time spent on test: 0:01:08.258376
+2013-06-25 00:23:02+0300 [-] Starting mysql_update_test, 5th time with concurrency 10
+2013-06-25 00:23:02+0300 [-] Starting concurrent test mysql_update_test #1. start_person_id is 0, end_person_id is 9999
+2013-06-25 00:23:02+0300 [-] Starting concurrent test mysql_update_test #2. start_person_id is 10000, end_person_id is 19999
+2013-06-25 00:23:02+0300 [-] Starting concurrent test mysql_update_test #3. start_person_id is 20000, end_person_id is 29999
+2013-06-25 00:23:02+0300 [-] Starting concurrent test mysql_update_test #4. start_person_id is 30000, end_person_id is 39999
+2013-06-25 00:23:02+0300 [-] Starting concurrent test mysql_update_test #5. start_person_id is 40000, end_person_id is 49999
+2013-06-25 00:23:02+0300 [-] Starting concurrent test mysql_update_test #6. start_person_id is 50000, end_person_id is 59999
+2013-06-25 00:23:02+0300 [-] Starting concurrent test mysql_update_test #7. start_person_id is 60000, end_person_id is 69999
+2013-06-25 00:23:02+0300 [-] Starting concurrent test mysql_update_test #8. start_person_id is 70000, end_person_id is 79999
+2013-06-25 00:23:02+0300 [-] Starting concurrent test mysql_update_test #9. start_person_id is 80000, end_person_id is 89999
+2013-06-25 00:23:02+0300 [-] Starting concurrent test mysql_update_test #10. start_person_id is 90000, end_person_id is 99999
+2013-06-25 00:23:07+0300 [-] update_test: updating 10000 tournament records
+2013-06-25 00:23:07+0300 [-] update_test: updating 10000 tournament records
+2013-06-25 00:23:07+0300 [-] update_test: updating 10000 tournament records
+2013-06-25 00:23:07+0300 [-] update_test: updating 10000 tournament records
+2013-06-25 00:23:07+0300 [-] update_test: updating 10000 tournament records
+2013-06-25 00:23:07+0300 [-] update_test: updating 10000 tournament records
+2013-06-25 00:23:07+0300 [-] update_test: updating 10000 tournament records
+2013-06-25 00:23:07+0300 [-] update_test: updating 10000 tournament records
+2013-06-25 00:23:07+0300 [-] update_test: updating 10000 tournament records
+2013-06-25 00:23:07+0300 [-] update_test: updating 10000 tournament records
+2013-06-25 00:24:10+0300 [-] Finished. Time spent on test: 0:01:08.051345
+2013-06-25 00:24:10+0300 [RedisClient,client] <twisted.internet.tcp.Connector instance at 0x1ed7b00> will retry in 2 seconds
+2013-06-25 00:24:10+0300 [RedisClient,client] Stopping factory <txredis.client.RedisClientFactory instance at 0x1ed7878>
+2013-06-25 00:24:10+0300 [-] Main loop terminated.

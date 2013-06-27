@@ -1,0 +1,1266 @@
+2013-06-26 07:49:42+0300 [-] Log opened.
+2013-06-26 07:49:43+0300 [-] DEBUG: len of persons_in_tournament is 1000001
+2013-06-26 07:49:43+0300 [-] Starting factory <txredis.client.RedisClientFactory instance at 0x1681a70>
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting mysql_update_test, 1th time with concurrency 125
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #1. start_person_id is 0, end_person_id is 799
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #2. start_person_id is 800, end_person_id is 1599
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #3. start_person_id is 1600, end_person_id is 2399
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #4. start_person_id is 2400, end_person_id is 3199
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #5. start_person_id is 3200, end_person_id is 3999
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #6. start_person_id is 4000, end_person_id is 4799
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #7. start_person_id is 4800, end_person_id is 5599
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #8. start_person_id is 5600, end_person_id is 6399
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #9. start_person_id is 6400, end_person_id is 7199
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #10. start_person_id is 7200, end_person_id is 7999
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #11. start_person_id is 8000, end_person_id is 8799
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #12. start_person_id is 8800, end_person_id is 9599
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #13. start_person_id is 9600, end_person_id is 10399
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #14. start_person_id is 10400, end_person_id is 11199
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #15. start_person_id is 11200, end_person_id is 11999
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #16. start_person_id is 12000, end_person_id is 12799
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #17. start_person_id is 12800, end_person_id is 13599
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #18. start_person_id is 13600, end_person_id is 14399
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #19. start_person_id is 14400, end_person_id is 15199
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #20. start_person_id is 15200, end_person_id is 15999
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #21. start_person_id is 16000, end_person_id is 16799
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #22. start_person_id is 16800, end_person_id is 17599
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #23. start_person_id is 17600, end_person_id is 18399
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #24. start_person_id is 18400, end_person_id is 19199
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #25. start_person_id is 19200, end_person_id is 19999
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #26. start_person_id is 20000, end_person_id is 20799
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #27. start_person_id is 20800, end_person_id is 21599
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #28. start_person_id is 21600, end_person_id is 22399
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #29. start_person_id is 22400, end_person_id is 23199
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #30. start_person_id is 23200, end_person_id is 23999
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #31. start_person_id is 24000, end_person_id is 24799
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #32. start_person_id is 24800, end_person_id is 25599
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #33. start_person_id is 25600, end_person_id is 26399
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #34. start_person_id is 26400, end_person_id is 27199
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #35. start_person_id is 27200, end_person_id is 27999
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #36. start_person_id is 28000, end_person_id is 28799
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #37. start_person_id is 28800, end_person_id is 29599
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #38. start_person_id is 29600, end_person_id is 30399
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #39. start_person_id is 30400, end_person_id is 31199
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #40. start_person_id is 31200, end_person_id is 31999
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #41. start_person_id is 32000, end_person_id is 32799
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #42. start_person_id is 32800, end_person_id is 33599
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #43. start_person_id is 33600, end_person_id is 34399
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #44. start_person_id is 34400, end_person_id is 35199
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #45. start_person_id is 35200, end_person_id is 35999
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #46. start_person_id is 36000, end_person_id is 36799
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #47. start_person_id is 36800, end_person_id is 37599
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #48. start_person_id is 37600, end_person_id is 38399
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #49. start_person_id is 38400, end_person_id is 39199
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #50. start_person_id is 39200, end_person_id is 39999
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #51. start_person_id is 40000, end_person_id is 40799
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #52. start_person_id is 40800, end_person_id is 41599
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #53. start_person_id is 41600, end_person_id is 42399
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #54. start_person_id is 42400, end_person_id is 43199
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #55. start_person_id is 43200, end_person_id is 43999
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #56. start_person_id is 44000, end_person_id is 44799
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #57. start_person_id is 44800, end_person_id is 45599
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #58. start_person_id is 45600, end_person_id is 46399
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #59. start_person_id is 46400, end_person_id is 47199
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #60. start_person_id is 47200, end_person_id is 47999
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #61. start_person_id is 48000, end_person_id is 48799
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #62. start_person_id is 48800, end_person_id is 49599
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #63. start_person_id is 49600, end_person_id is 50399
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #64. start_person_id is 50400, end_person_id is 51199
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #65. start_person_id is 51200, end_person_id is 51999
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #66. start_person_id is 52000, end_person_id is 52799
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #67. start_person_id is 52800, end_person_id is 53599
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #68. start_person_id is 53600, end_person_id is 54399
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #69. start_person_id is 54400, end_person_id is 55199
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #70. start_person_id is 55200, end_person_id is 55999
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #71. start_person_id is 56000, end_person_id is 56799
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #72. start_person_id is 56800, end_person_id is 57599
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #73. start_person_id is 57600, end_person_id is 58399
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #74. start_person_id is 58400, end_person_id is 59199
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #75. start_person_id is 59200, end_person_id is 59999
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #76. start_person_id is 60000, end_person_id is 60799
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #77. start_person_id is 60800, end_person_id is 61599
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #78. start_person_id is 61600, end_person_id is 62399
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #79. start_person_id is 62400, end_person_id is 63199
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #80. start_person_id is 63200, end_person_id is 63999
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #81. start_person_id is 64000, end_person_id is 64799
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #82. start_person_id is 64800, end_person_id is 65599
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #83. start_person_id is 65600, end_person_id is 66399
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #84. start_person_id is 66400, end_person_id is 67199
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #85. start_person_id is 67200, end_person_id is 67999
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #86. start_person_id is 68000, end_person_id is 68799
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #87. start_person_id is 68800, end_person_id is 69599
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #88. start_person_id is 69600, end_person_id is 70399
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #89. start_person_id is 70400, end_person_id is 71199
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #90. start_person_id is 71200, end_person_id is 71999
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #91. start_person_id is 72000, end_person_id is 72799
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #92. start_person_id is 72800, end_person_id is 73599
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #93. start_person_id is 73600, end_person_id is 74399
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #94. start_person_id is 74400, end_person_id is 75199
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #95. start_person_id is 75200, end_person_id is 75999
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #96. start_person_id is 76000, end_person_id is 76799
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #97. start_person_id is 76800, end_person_id is 77599
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #98. start_person_id is 77600, end_person_id is 78399
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #99. start_person_id is 78400, end_person_id is 79199
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #100. start_person_id is 79200, end_person_id is 79999
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #101. start_person_id is 80000, end_person_id is 80799
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #102. start_person_id is 80800, end_person_id is 81599
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #103. start_person_id is 81600, end_person_id is 82399
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #104. start_person_id is 82400, end_person_id is 83199
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #105. start_person_id is 83200, end_person_id is 83999
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #106. start_person_id is 84000, end_person_id is 84799
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #107. start_person_id is 84800, end_person_id is 85599
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #108. start_person_id is 85600, end_person_id is 86399
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #109. start_person_id is 86400, end_person_id is 87199
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #110. start_person_id is 87200, end_person_id is 87999
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #111. start_person_id is 88000, end_person_id is 88799
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #112. start_person_id is 88800, end_person_id is 89599
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #113. start_person_id is 89600, end_person_id is 90399
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #114. start_person_id is 90400, end_person_id is 91199
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #115. start_person_id is 91200, end_person_id is 91999
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #116. start_person_id is 92000, end_person_id is 92799
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #117. start_person_id is 92800, end_person_id is 93599
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #118. start_person_id is 93600, end_person_id is 94399
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #119. start_person_id is 94400, end_person_id is 95199
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #120. start_person_id is 95200, end_person_id is 95999
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #121. start_person_id is 96000, end_person_id is 96799
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #122. start_person_id is 96800, end_person_id is 97599
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #123. start_person_id is 97600, end_person_id is 98399
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #124. start_person_id is 98400, end_person_id is 99199
+2013-06-26 07:49:43+0300 [RedisClient,client] Starting concurrent test mysql_update_test #125. start_person_id is 99200, end_person_id is 99999
+2013-06-26 07:49:48+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:48+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:48+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:48+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:48+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:48+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:48+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:48+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:48+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:48+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:48+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:48+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:48+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:48+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:48+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:48+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:48+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:48+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:48+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:48+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:48+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:48+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:48+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:48+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:48+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:48+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:48+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:48+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:48+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:48+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:48+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:48+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:48+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:48+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:48+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:48+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:48+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:48+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:48+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:48+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:48+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:48+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:48+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:48+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:48+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:48+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:48+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:48+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:48+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:48+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:48+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:48+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:48+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:48+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:49+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:49+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:49+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:49+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:49+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:49+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:49+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:49+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:49+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:49+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:49+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:49+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:49+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:49+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:49+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:49+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:49+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:49+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:49+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:49+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:49+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:49+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:49+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:49+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:49+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:49+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:49+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:49+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:49+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:49+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:49+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:49+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:49+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:49+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:49+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:49+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:49+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:49+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:49+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:49+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:49+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:49+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:49+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:49+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:49+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:49+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:49+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:49+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:49+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:49+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:49+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:49+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:49+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:49+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:49+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:49+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:49+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:49+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:49+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:49+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:49+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:49+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:49+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:49+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:49+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:49+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:49+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:49+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:49+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:49+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:49:49+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:06+0300 [-] Finished. Time spent on test: 0:01:22.546750
+2013-06-26 07:51:06+0300 [-] Starting mysql_update_test, 2th time with concurrency 125
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #1. start_person_id is 0, end_person_id is 799
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #2. start_person_id is 800, end_person_id is 1599
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #3. start_person_id is 1600, end_person_id is 2399
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #4. start_person_id is 2400, end_person_id is 3199
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #5. start_person_id is 3200, end_person_id is 3999
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #6. start_person_id is 4000, end_person_id is 4799
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #7. start_person_id is 4800, end_person_id is 5599
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #8. start_person_id is 5600, end_person_id is 6399
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #9. start_person_id is 6400, end_person_id is 7199
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #10. start_person_id is 7200, end_person_id is 7999
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #11. start_person_id is 8000, end_person_id is 8799
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #12. start_person_id is 8800, end_person_id is 9599
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #13. start_person_id is 9600, end_person_id is 10399
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #14. start_person_id is 10400, end_person_id is 11199
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #15. start_person_id is 11200, end_person_id is 11999
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #16. start_person_id is 12000, end_person_id is 12799
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #17. start_person_id is 12800, end_person_id is 13599
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #18. start_person_id is 13600, end_person_id is 14399
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #19. start_person_id is 14400, end_person_id is 15199
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #20. start_person_id is 15200, end_person_id is 15999
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #21. start_person_id is 16000, end_person_id is 16799
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #22. start_person_id is 16800, end_person_id is 17599
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #23. start_person_id is 17600, end_person_id is 18399
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #24. start_person_id is 18400, end_person_id is 19199
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #25. start_person_id is 19200, end_person_id is 19999
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #26. start_person_id is 20000, end_person_id is 20799
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #27. start_person_id is 20800, end_person_id is 21599
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #28. start_person_id is 21600, end_person_id is 22399
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #29. start_person_id is 22400, end_person_id is 23199
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #30. start_person_id is 23200, end_person_id is 23999
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #31. start_person_id is 24000, end_person_id is 24799
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #32. start_person_id is 24800, end_person_id is 25599
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #33. start_person_id is 25600, end_person_id is 26399
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #34. start_person_id is 26400, end_person_id is 27199
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #35. start_person_id is 27200, end_person_id is 27999
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #36. start_person_id is 28000, end_person_id is 28799
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #37. start_person_id is 28800, end_person_id is 29599
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #38. start_person_id is 29600, end_person_id is 30399
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #39. start_person_id is 30400, end_person_id is 31199
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #40. start_person_id is 31200, end_person_id is 31999
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #41. start_person_id is 32000, end_person_id is 32799
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #42. start_person_id is 32800, end_person_id is 33599
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #43. start_person_id is 33600, end_person_id is 34399
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #44. start_person_id is 34400, end_person_id is 35199
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #45. start_person_id is 35200, end_person_id is 35999
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #46. start_person_id is 36000, end_person_id is 36799
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #47. start_person_id is 36800, end_person_id is 37599
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #48. start_person_id is 37600, end_person_id is 38399
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #49. start_person_id is 38400, end_person_id is 39199
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #50. start_person_id is 39200, end_person_id is 39999
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #51. start_person_id is 40000, end_person_id is 40799
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #52. start_person_id is 40800, end_person_id is 41599
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #53. start_person_id is 41600, end_person_id is 42399
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #54. start_person_id is 42400, end_person_id is 43199
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #55. start_person_id is 43200, end_person_id is 43999
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #56. start_person_id is 44000, end_person_id is 44799
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #57. start_person_id is 44800, end_person_id is 45599
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #58. start_person_id is 45600, end_person_id is 46399
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #59. start_person_id is 46400, end_person_id is 47199
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #60. start_person_id is 47200, end_person_id is 47999
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #61. start_person_id is 48000, end_person_id is 48799
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #62. start_person_id is 48800, end_person_id is 49599
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #63. start_person_id is 49600, end_person_id is 50399
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #64. start_person_id is 50400, end_person_id is 51199
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #65. start_person_id is 51200, end_person_id is 51999
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #66. start_person_id is 52000, end_person_id is 52799
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #67. start_person_id is 52800, end_person_id is 53599
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #68. start_person_id is 53600, end_person_id is 54399
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #69. start_person_id is 54400, end_person_id is 55199
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #70. start_person_id is 55200, end_person_id is 55999
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #71. start_person_id is 56000, end_person_id is 56799
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #72. start_person_id is 56800, end_person_id is 57599
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #73. start_person_id is 57600, end_person_id is 58399
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #74. start_person_id is 58400, end_person_id is 59199
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #75. start_person_id is 59200, end_person_id is 59999
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #76. start_person_id is 60000, end_person_id is 60799
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #77. start_person_id is 60800, end_person_id is 61599
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #78. start_person_id is 61600, end_person_id is 62399
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #79. start_person_id is 62400, end_person_id is 63199
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #80. start_person_id is 63200, end_person_id is 63999
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #81. start_person_id is 64000, end_person_id is 64799
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #82. start_person_id is 64800, end_person_id is 65599
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #83. start_person_id is 65600, end_person_id is 66399
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #84. start_person_id is 66400, end_person_id is 67199
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #85. start_person_id is 67200, end_person_id is 67999
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #86. start_person_id is 68000, end_person_id is 68799
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #87. start_person_id is 68800, end_person_id is 69599
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #88. start_person_id is 69600, end_person_id is 70399
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #89. start_person_id is 70400, end_person_id is 71199
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #90. start_person_id is 71200, end_person_id is 71999
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #91. start_person_id is 72000, end_person_id is 72799
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #92. start_person_id is 72800, end_person_id is 73599
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #93. start_person_id is 73600, end_person_id is 74399
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #94. start_person_id is 74400, end_person_id is 75199
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #95. start_person_id is 75200, end_person_id is 75999
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #96. start_person_id is 76000, end_person_id is 76799
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #97. start_person_id is 76800, end_person_id is 77599
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #98. start_person_id is 77600, end_person_id is 78399
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #99. start_person_id is 78400, end_person_id is 79199
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #100. start_person_id is 79200, end_person_id is 79999
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #101. start_person_id is 80000, end_person_id is 80799
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #102. start_person_id is 80800, end_person_id is 81599
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #103. start_person_id is 81600, end_person_id is 82399
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #104. start_person_id is 82400, end_person_id is 83199
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #105. start_person_id is 83200, end_person_id is 83999
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #106. start_person_id is 84000, end_person_id is 84799
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #107. start_person_id is 84800, end_person_id is 85599
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #108. start_person_id is 85600, end_person_id is 86399
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #109. start_person_id is 86400, end_person_id is 87199
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #110. start_person_id is 87200, end_person_id is 87999
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #111. start_person_id is 88000, end_person_id is 88799
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #112. start_person_id is 88800, end_person_id is 89599
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #113. start_person_id is 89600, end_person_id is 90399
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #114. start_person_id is 90400, end_person_id is 91199
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #115. start_person_id is 91200, end_person_id is 91999
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #116. start_person_id is 92000, end_person_id is 92799
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #117. start_person_id is 92800, end_person_id is 93599
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #118. start_person_id is 93600, end_person_id is 94399
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #119. start_person_id is 94400, end_person_id is 95199
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #120. start_person_id is 95200, end_person_id is 95999
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #121. start_person_id is 96000, end_person_id is 96799
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #122. start_person_id is 96800, end_person_id is 97599
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #123. start_person_id is 97600, end_person_id is 98399
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #124. start_person_id is 98400, end_person_id is 99199
+2013-06-26 07:51:06+0300 [-] Starting concurrent test mysql_update_test #125. start_person_id is 99200, end_person_id is 99999
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:51:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:21+0300 [-] Finished. Time spent on test: 0:01:15.046110
+2013-06-26 07:52:21+0300 [-] Starting mysql_update_test, 3th time with concurrency 125
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #1. start_person_id is 0, end_person_id is 799
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #2. start_person_id is 800, end_person_id is 1599
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #3. start_person_id is 1600, end_person_id is 2399
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #4. start_person_id is 2400, end_person_id is 3199
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #5. start_person_id is 3200, end_person_id is 3999
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #6. start_person_id is 4000, end_person_id is 4799
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #7. start_person_id is 4800, end_person_id is 5599
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #8. start_person_id is 5600, end_person_id is 6399
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #9. start_person_id is 6400, end_person_id is 7199
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #10. start_person_id is 7200, end_person_id is 7999
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #11. start_person_id is 8000, end_person_id is 8799
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #12. start_person_id is 8800, end_person_id is 9599
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #13. start_person_id is 9600, end_person_id is 10399
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #14. start_person_id is 10400, end_person_id is 11199
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #15. start_person_id is 11200, end_person_id is 11999
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #16. start_person_id is 12000, end_person_id is 12799
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #17. start_person_id is 12800, end_person_id is 13599
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #18. start_person_id is 13600, end_person_id is 14399
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #19. start_person_id is 14400, end_person_id is 15199
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #20. start_person_id is 15200, end_person_id is 15999
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #21. start_person_id is 16000, end_person_id is 16799
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #22. start_person_id is 16800, end_person_id is 17599
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #23. start_person_id is 17600, end_person_id is 18399
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #24. start_person_id is 18400, end_person_id is 19199
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #25. start_person_id is 19200, end_person_id is 19999
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #26. start_person_id is 20000, end_person_id is 20799
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #27. start_person_id is 20800, end_person_id is 21599
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #28. start_person_id is 21600, end_person_id is 22399
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #29. start_person_id is 22400, end_person_id is 23199
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #30. start_person_id is 23200, end_person_id is 23999
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #31. start_person_id is 24000, end_person_id is 24799
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #32. start_person_id is 24800, end_person_id is 25599
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #33. start_person_id is 25600, end_person_id is 26399
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #34. start_person_id is 26400, end_person_id is 27199
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #35. start_person_id is 27200, end_person_id is 27999
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #36. start_person_id is 28000, end_person_id is 28799
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #37. start_person_id is 28800, end_person_id is 29599
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #38. start_person_id is 29600, end_person_id is 30399
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #39. start_person_id is 30400, end_person_id is 31199
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #40. start_person_id is 31200, end_person_id is 31999
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #41. start_person_id is 32000, end_person_id is 32799
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #42. start_person_id is 32800, end_person_id is 33599
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #43. start_person_id is 33600, end_person_id is 34399
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #44. start_person_id is 34400, end_person_id is 35199
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #45. start_person_id is 35200, end_person_id is 35999
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #46. start_person_id is 36000, end_person_id is 36799
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #47. start_person_id is 36800, end_person_id is 37599
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #48. start_person_id is 37600, end_person_id is 38399
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #49. start_person_id is 38400, end_person_id is 39199
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #50. start_person_id is 39200, end_person_id is 39999
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #51. start_person_id is 40000, end_person_id is 40799
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #52. start_person_id is 40800, end_person_id is 41599
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #53. start_person_id is 41600, end_person_id is 42399
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #54. start_person_id is 42400, end_person_id is 43199
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #55. start_person_id is 43200, end_person_id is 43999
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #56. start_person_id is 44000, end_person_id is 44799
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #57. start_person_id is 44800, end_person_id is 45599
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #58. start_person_id is 45600, end_person_id is 46399
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #59. start_person_id is 46400, end_person_id is 47199
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #60. start_person_id is 47200, end_person_id is 47999
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #61. start_person_id is 48000, end_person_id is 48799
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #62. start_person_id is 48800, end_person_id is 49599
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #63. start_person_id is 49600, end_person_id is 50399
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #64. start_person_id is 50400, end_person_id is 51199
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #65. start_person_id is 51200, end_person_id is 51999
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #66. start_person_id is 52000, end_person_id is 52799
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #67. start_person_id is 52800, end_person_id is 53599
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #68. start_person_id is 53600, end_person_id is 54399
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #69. start_person_id is 54400, end_person_id is 55199
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #70. start_person_id is 55200, end_person_id is 55999
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #71. start_person_id is 56000, end_person_id is 56799
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #72. start_person_id is 56800, end_person_id is 57599
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #73. start_person_id is 57600, end_person_id is 58399
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #74. start_person_id is 58400, end_person_id is 59199
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #75. start_person_id is 59200, end_person_id is 59999
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #76. start_person_id is 60000, end_person_id is 60799
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #77. start_person_id is 60800, end_person_id is 61599
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #78. start_person_id is 61600, end_person_id is 62399
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #79. start_person_id is 62400, end_person_id is 63199
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #80. start_person_id is 63200, end_person_id is 63999
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #81. start_person_id is 64000, end_person_id is 64799
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #82. start_person_id is 64800, end_person_id is 65599
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #83. start_person_id is 65600, end_person_id is 66399
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #84. start_person_id is 66400, end_person_id is 67199
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #85. start_person_id is 67200, end_person_id is 67999
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #86. start_person_id is 68000, end_person_id is 68799
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #87. start_person_id is 68800, end_person_id is 69599
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #88. start_person_id is 69600, end_person_id is 70399
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #89. start_person_id is 70400, end_person_id is 71199
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #90. start_person_id is 71200, end_person_id is 71999
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #91. start_person_id is 72000, end_person_id is 72799
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #92. start_person_id is 72800, end_person_id is 73599
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #93. start_person_id is 73600, end_person_id is 74399
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #94. start_person_id is 74400, end_person_id is 75199
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #95. start_person_id is 75200, end_person_id is 75999
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #96. start_person_id is 76000, end_person_id is 76799
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #97. start_person_id is 76800, end_person_id is 77599
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #98. start_person_id is 77600, end_person_id is 78399
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #99. start_person_id is 78400, end_person_id is 79199
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #100. start_person_id is 79200, end_person_id is 79999
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #101. start_person_id is 80000, end_person_id is 80799
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #102. start_person_id is 80800, end_person_id is 81599
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #103. start_person_id is 81600, end_person_id is 82399
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #104. start_person_id is 82400, end_person_id is 83199
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #105. start_person_id is 83200, end_person_id is 83999
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #106. start_person_id is 84000, end_person_id is 84799
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #107. start_person_id is 84800, end_person_id is 85599
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #108. start_person_id is 85600, end_person_id is 86399
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #109. start_person_id is 86400, end_person_id is 87199
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #110. start_person_id is 87200, end_person_id is 87999
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #111. start_person_id is 88000, end_person_id is 88799
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #112. start_person_id is 88800, end_person_id is 89599
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #113. start_person_id is 89600, end_person_id is 90399
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #114. start_person_id is 90400, end_person_id is 91199
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #115. start_person_id is 91200, end_person_id is 91999
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #116. start_person_id is 92000, end_person_id is 92799
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #117. start_person_id is 92800, end_person_id is 93599
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #118. start_person_id is 93600, end_person_id is 94399
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #119. start_person_id is 94400, end_person_id is 95199
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #120. start_person_id is 95200, end_person_id is 95999
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #121. start_person_id is 96000, end_person_id is 96799
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #122. start_person_id is 96800, end_person_id is 97599
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #123. start_person_id is 97600, end_person_id is 98399
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #124. start_person_id is 98400, end_person_id is 99199
+2013-06-26 07:52:21+0300 [-] Starting concurrent test mysql_update_test #125. start_person_id is 99200, end_person_id is 99999
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:52:26+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:41+0300 [-] Finished. Time spent on test: 0:01:20.384617
+2013-06-26 07:53:41+0300 [-] Starting mysql_update_test, 4th time with concurrency 125
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #1. start_person_id is 0, end_person_id is 799
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #2. start_person_id is 800, end_person_id is 1599
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #3. start_person_id is 1600, end_person_id is 2399
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #4. start_person_id is 2400, end_person_id is 3199
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #5. start_person_id is 3200, end_person_id is 3999
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #6. start_person_id is 4000, end_person_id is 4799
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #7. start_person_id is 4800, end_person_id is 5599
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #8. start_person_id is 5600, end_person_id is 6399
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #9. start_person_id is 6400, end_person_id is 7199
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #10. start_person_id is 7200, end_person_id is 7999
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #11. start_person_id is 8000, end_person_id is 8799
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #12. start_person_id is 8800, end_person_id is 9599
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #13. start_person_id is 9600, end_person_id is 10399
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #14. start_person_id is 10400, end_person_id is 11199
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #15. start_person_id is 11200, end_person_id is 11999
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #16. start_person_id is 12000, end_person_id is 12799
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #17. start_person_id is 12800, end_person_id is 13599
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #18. start_person_id is 13600, end_person_id is 14399
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #19. start_person_id is 14400, end_person_id is 15199
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #20. start_person_id is 15200, end_person_id is 15999
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #21. start_person_id is 16000, end_person_id is 16799
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #22. start_person_id is 16800, end_person_id is 17599
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #23. start_person_id is 17600, end_person_id is 18399
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #24. start_person_id is 18400, end_person_id is 19199
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #25. start_person_id is 19200, end_person_id is 19999
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #26. start_person_id is 20000, end_person_id is 20799
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #27. start_person_id is 20800, end_person_id is 21599
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #28. start_person_id is 21600, end_person_id is 22399
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #29. start_person_id is 22400, end_person_id is 23199
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #30. start_person_id is 23200, end_person_id is 23999
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #31. start_person_id is 24000, end_person_id is 24799
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #32. start_person_id is 24800, end_person_id is 25599
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #33. start_person_id is 25600, end_person_id is 26399
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #34. start_person_id is 26400, end_person_id is 27199
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #35. start_person_id is 27200, end_person_id is 27999
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #36. start_person_id is 28000, end_person_id is 28799
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #37. start_person_id is 28800, end_person_id is 29599
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #38. start_person_id is 29600, end_person_id is 30399
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #39. start_person_id is 30400, end_person_id is 31199
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #40. start_person_id is 31200, end_person_id is 31999
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #41. start_person_id is 32000, end_person_id is 32799
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #42. start_person_id is 32800, end_person_id is 33599
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #43. start_person_id is 33600, end_person_id is 34399
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #44. start_person_id is 34400, end_person_id is 35199
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #45. start_person_id is 35200, end_person_id is 35999
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #46. start_person_id is 36000, end_person_id is 36799
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #47. start_person_id is 36800, end_person_id is 37599
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #48. start_person_id is 37600, end_person_id is 38399
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #49. start_person_id is 38400, end_person_id is 39199
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #50. start_person_id is 39200, end_person_id is 39999
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #51. start_person_id is 40000, end_person_id is 40799
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #52. start_person_id is 40800, end_person_id is 41599
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #53. start_person_id is 41600, end_person_id is 42399
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #54. start_person_id is 42400, end_person_id is 43199
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #55. start_person_id is 43200, end_person_id is 43999
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #56. start_person_id is 44000, end_person_id is 44799
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #57. start_person_id is 44800, end_person_id is 45599
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #58. start_person_id is 45600, end_person_id is 46399
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #59. start_person_id is 46400, end_person_id is 47199
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #60. start_person_id is 47200, end_person_id is 47999
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #61. start_person_id is 48000, end_person_id is 48799
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #62. start_person_id is 48800, end_person_id is 49599
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #63. start_person_id is 49600, end_person_id is 50399
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #64. start_person_id is 50400, end_person_id is 51199
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #65. start_person_id is 51200, end_person_id is 51999
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #66. start_person_id is 52000, end_person_id is 52799
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #67. start_person_id is 52800, end_person_id is 53599
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #68. start_person_id is 53600, end_person_id is 54399
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #69. start_person_id is 54400, end_person_id is 55199
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #70. start_person_id is 55200, end_person_id is 55999
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #71. start_person_id is 56000, end_person_id is 56799
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #72. start_person_id is 56800, end_person_id is 57599
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #73. start_person_id is 57600, end_person_id is 58399
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #74. start_person_id is 58400, end_person_id is 59199
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #75. start_person_id is 59200, end_person_id is 59999
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #76. start_person_id is 60000, end_person_id is 60799
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #77. start_person_id is 60800, end_person_id is 61599
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #78. start_person_id is 61600, end_person_id is 62399
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #79. start_person_id is 62400, end_person_id is 63199
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #80. start_person_id is 63200, end_person_id is 63999
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #81. start_person_id is 64000, end_person_id is 64799
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #82. start_person_id is 64800, end_person_id is 65599
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #83. start_person_id is 65600, end_person_id is 66399
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #84. start_person_id is 66400, end_person_id is 67199
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #85. start_person_id is 67200, end_person_id is 67999
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #86. start_person_id is 68000, end_person_id is 68799
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #87. start_person_id is 68800, end_person_id is 69599
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #88. start_person_id is 69600, end_person_id is 70399
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #89. start_person_id is 70400, end_person_id is 71199
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #90. start_person_id is 71200, end_person_id is 71999
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #91. start_person_id is 72000, end_person_id is 72799
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #92. start_person_id is 72800, end_person_id is 73599
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #93. start_person_id is 73600, end_person_id is 74399
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #94. start_person_id is 74400, end_person_id is 75199
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #95. start_person_id is 75200, end_person_id is 75999
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #96. start_person_id is 76000, end_person_id is 76799
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #97. start_person_id is 76800, end_person_id is 77599
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #98. start_person_id is 77600, end_person_id is 78399
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #99. start_person_id is 78400, end_person_id is 79199
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #100. start_person_id is 79200, end_person_id is 79999
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #101. start_person_id is 80000, end_person_id is 80799
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #102. start_person_id is 80800, end_person_id is 81599
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #103. start_person_id is 81600, end_person_id is 82399
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #104. start_person_id is 82400, end_person_id is 83199
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #105. start_person_id is 83200, end_person_id is 83999
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #106. start_person_id is 84000, end_person_id is 84799
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #107. start_person_id is 84800, end_person_id is 85599
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #108. start_person_id is 85600, end_person_id is 86399
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #109. start_person_id is 86400, end_person_id is 87199
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #110. start_person_id is 87200, end_person_id is 87999
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #111. start_person_id is 88000, end_person_id is 88799
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #112. start_person_id is 88800, end_person_id is 89599
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #113. start_person_id is 89600, end_person_id is 90399
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #114. start_person_id is 90400, end_person_id is 91199
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #115. start_person_id is 91200, end_person_id is 91999
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #116. start_person_id is 92000, end_person_id is 92799
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #117. start_person_id is 92800, end_person_id is 93599
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #118. start_person_id is 93600, end_person_id is 94399
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #119. start_person_id is 94400, end_person_id is 95199
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #120. start_person_id is 95200, end_person_id is 95999
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #121. start_person_id is 96000, end_person_id is 96799
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #122. start_person_id is 96800, end_person_id is 97599
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #123. start_person_id is 97600, end_person_id is 98399
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #124. start_person_id is 98400, end_person_id is 99199
+2013-06-26 07:53:41+0300 [-] Starting concurrent test mysql_update_test #125. start_person_id is 99200, end_person_id is 99999
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:46+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:47+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:47+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:47+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:47+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:47+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:47+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:47+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:47+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:47+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:47+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:47+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:47+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:47+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:47+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:47+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:47+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:47+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:47+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:47+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:47+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:47+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:47+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:47+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:47+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:53:47+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:05+0300 [-] Finished. Time spent on test: 0:01:24.026600
+2013-06-26 07:55:05+0300 [-] Starting mysql_update_test, 5th time with concurrency 125
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #1. start_person_id is 0, end_person_id is 799
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #2. start_person_id is 800, end_person_id is 1599
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #3. start_person_id is 1600, end_person_id is 2399
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #4. start_person_id is 2400, end_person_id is 3199
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #5. start_person_id is 3200, end_person_id is 3999
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #6. start_person_id is 4000, end_person_id is 4799
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #7. start_person_id is 4800, end_person_id is 5599
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #8. start_person_id is 5600, end_person_id is 6399
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #9. start_person_id is 6400, end_person_id is 7199
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #10. start_person_id is 7200, end_person_id is 7999
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #11. start_person_id is 8000, end_person_id is 8799
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #12. start_person_id is 8800, end_person_id is 9599
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #13. start_person_id is 9600, end_person_id is 10399
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #14. start_person_id is 10400, end_person_id is 11199
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #15. start_person_id is 11200, end_person_id is 11999
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #16. start_person_id is 12000, end_person_id is 12799
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #17. start_person_id is 12800, end_person_id is 13599
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #18. start_person_id is 13600, end_person_id is 14399
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #19. start_person_id is 14400, end_person_id is 15199
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #20. start_person_id is 15200, end_person_id is 15999
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #21. start_person_id is 16000, end_person_id is 16799
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #22. start_person_id is 16800, end_person_id is 17599
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #23. start_person_id is 17600, end_person_id is 18399
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #24. start_person_id is 18400, end_person_id is 19199
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #25. start_person_id is 19200, end_person_id is 19999
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #26. start_person_id is 20000, end_person_id is 20799
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #27. start_person_id is 20800, end_person_id is 21599
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #28. start_person_id is 21600, end_person_id is 22399
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #29. start_person_id is 22400, end_person_id is 23199
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #30. start_person_id is 23200, end_person_id is 23999
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #31. start_person_id is 24000, end_person_id is 24799
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #32. start_person_id is 24800, end_person_id is 25599
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #33. start_person_id is 25600, end_person_id is 26399
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #34. start_person_id is 26400, end_person_id is 27199
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #35. start_person_id is 27200, end_person_id is 27999
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #36. start_person_id is 28000, end_person_id is 28799
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #37. start_person_id is 28800, end_person_id is 29599
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #38. start_person_id is 29600, end_person_id is 30399
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #39. start_person_id is 30400, end_person_id is 31199
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #40. start_person_id is 31200, end_person_id is 31999
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #41. start_person_id is 32000, end_person_id is 32799
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #42. start_person_id is 32800, end_person_id is 33599
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #43. start_person_id is 33600, end_person_id is 34399
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #44. start_person_id is 34400, end_person_id is 35199
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #45. start_person_id is 35200, end_person_id is 35999
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #46. start_person_id is 36000, end_person_id is 36799
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #47. start_person_id is 36800, end_person_id is 37599
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #48. start_person_id is 37600, end_person_id is 38399
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #49. start_person_id is 38400, end_person_id is 39199
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #50. start_person_id is 39200, end_person_id is 39999
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #51. start_person_id is 40000, end_person_id is 40799
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #52. start_person_id is 40800, end_person_id is 41599
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #53. start_person_id is 41600, end_person_id is 42399
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #54. start_person_id is 42400, end_person_id is 43199
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #55. start_person_id is 43200, end_person_id is 43999
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #56. start_person_id is 44000, end_person_id is 44799
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #57. start_person_id is 44800, end_person_id is 45599
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #58. start_person_id is 45600, end_person_id is 46399
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #59. start_person_id is 46400, end_person_id is 47199
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #60. start_person_id is 47200, end_person_id is 47999
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #61. start_person_id is 48000, end_person_id is 48799
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #62. start_person_id is 48800, end_person_id is 49599
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #63. start_person_id is 49600, end_person_id is 50399
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #64. start_person_id is 50400, end_person_id is 51199
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #65. start_person_id is 51200, end_person_id is 51999
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #66. start_person_id is 52000, end_person_id is 52799
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #67. start_person_id is 52800, end_person_id is 53599
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #68. start_person_id is 53600, end_person_id is 54399
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #69. start_person_id is 54400, end_person_id is 55199
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #70. start_person_id is 55200, end_person_id is 55999
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #71. start_person_id is 56000, end_person_id is 56799
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #72. start_person_id is 56800, end_person_id is 57599
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #73. start_person_id is 57600, end_person_id is 58399
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #74. start_person_id is 58400, end_person_id is 59199
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #75. start_person_id is 59200, end_person_id is 59999
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #76. start_person_id is 60000, end_person_id is 60799
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #77. start_person_id is 60800, end_person_id is 61599
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #78. start_person_id is 61600, end_person_id is 62399
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #79. start_person_id is 62400, end_person_id is 63199
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #80. start_person_id is 63200, end_person_id is 63999
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #81. start_person_id is 64000, end_person_id is 64799
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #82. start_person_id is 64800, end_person_id is 65599
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #83. start_person_id is 65600, end_person_id is 66399
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #84. start_person_id is 66400, end_person_id is 67199
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #85. start_person_id is 67200, end_person_id is 67999
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #86. start_person_id is 68000, end_person_id is 68799
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #87. start_person_id is 68800, end_person_id is 69599
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #88. start_person_id is 69600, end_person_id is 70399
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #89. start_person_id is 70400, end_person_id is 71199
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #90. start_person_id is 71200, end_person_id is 71999
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #91. start_person_id is 72000, end_person_id is 72799
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #92. start_person_id is 72800, end_person_id is 73599
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #93. start_person_id is 73600, end_person_id is 74399
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #94. start_person_id is 74400, end_person_id is 75199
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #95. start_person_id is 75200, end_person_id is 75999
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #96. start_person_id is 76000, end_person_id is 76799
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #97. start_person_id is 76800, end_person_id is 77599
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #98. start_person_id is 77600, end_person_id is 78399
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #99. start_person_id is 78400, end_person_id is 79199
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #100. start_person_id is 79200, end_person_id is 79999
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #101. start_person_id is 80000, end_person_id is 80799
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #102. start_person_id is 80800, end_person_id is 81599
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #103. start_person_id is 81600, end_person_id is 82399
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #104. start_person_id is 82400, end_person_id is 83199
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #105. start_person_id is 83200, end_person_id is 83999
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #106. start_person_id is 84000, end_person_id is 84799
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #107. start_person_id is 84800, end_person_id is 85599
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #108. start_person_id is 85600, end_person_id is 86399
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #109. start_person_id is 86400, end_person_id is 87199
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #110. start_person_id is 87200, end_person_id is 87999
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #111. start_person_id is 88000, end_person_id is 88799
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #112. start_person_id is 88800, end_person_id is 89599
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #113. start_person_id is 89600, end_person_id is 90399
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #114. start_person_id is 90400, end_person_id is 91199
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #115. start_person_id is 91200, end_person_id is 91999
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #116. start_person_id is 92000, end_person_id is 92799
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #117. start_person_id is 92800, end_person_id is 93599
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #118. start_person_id is 93600, end_person_id is 94399
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #119. start_person_id is 94400, end_person_id is 95199
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #120. start_person_id is 95200, end_person_id is 95999
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #121. start_person_id is 96000, end_person_id is 96799
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #122. start_person_id is 96800, end_person_id is 97599
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #123. start_person_id is 97600, end_person_id is 98399
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #124. start_person_id is 98400, end_person_id is 99199
+2013-06-26 07:55:05+0300 [-] Starting concurrent test mysql_update_test #125. start_person_id is 99200, end_person_id is 99999
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:10+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:55:11+0300 [-] update_test: updating 800 tournament records
+2013-06-26 07:56:23+0300 [-] Finished. Time spent on test: 0:01:17.163124
+2013-06-26 07:56:23+0300 [RedisClient,client] <twisted.internet.tcp.Connector instance at 0x1681b90> will retry in 2 seconds
+2013-06-26 07:56:23+0300 [RedisClient,client] Stopping factory <txredis.client.RedisClientFactory instance at 0x1681a70>
+2013-06-26 07:56:23+0300 [-] Main loop terminated.
