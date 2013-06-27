@@ -37,6 +37,7 @@ def get_prev_tournament_id():
 
 @defer.inlineCallbacks
 def reset_weekly_tournament():
+    yield 1
     yield factory.dbpool.runOperation("TRUNCATE TABLE weekly_tournament")
     persons_in_tournament.clear()
 
@@ -75,9 +76,9 @@ def get_weekly_tournament_page(person_id, page_num, page_size=10):
 
 
     sql_cmd = """SELECT wo.money_earned, 
-                    (SELECT COUNT(*) + 1 FROM weekly_tournament wi WHERE 
+                    (SELECT COUNT(wi.money_earned) + 1 FROM weekly_tournament wi WHERE 
                      wi.tournament_id=%(tournament_id)s AND
-                     (wi.money_earned, wi.person_id) > (wo.money_earned, wo.person_id)) AS
+                     wi.money_earned > wo.money_earned) AS
                      rank
                  FROM weekly_tournament wo WHERE
                  wo.tournament_id=%(tournament_id)s AND wo.person_id=%(person_id)s"""
