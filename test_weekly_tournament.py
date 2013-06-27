@@ -130,20 +130,26 @@ def mysql_select_test(*args, **kwargs):
     if "start_person_id" in kwargs:
         start_person_id = int(kwargs["start_person_id"])
 
-    end_person_id = 30000
+    end_person_id = 30
     if "end_person_id" in kwargs:
         end_person_id = int(kwargs["end_person_id"])
 
-    page_count = 1
+    page_count = 1000
     if "page_count" in kwargs:
         page_count = int(kwargs["page_count"]) 
 
     person_count = end_person_id - start_person_id + 1
     log.msg("person_count: selecting {0} rating pages X {1} persons".format(page_count, person_count))
+    #counter = 1
     for i in range(page_count):
-        page_index = i#random.randint(0, person_count/10)
         for person_id in range(start_person_id, end_person_id + 1):
+            page_index = random.randint(0, person_count/10)
+            #start_time = datetime.datetime.now()
             yield mysql_weekly_tournament.get_weekly_tournament_page(person_id, page_index)
+            #finish_time = datetime.datetime.now()
+            #log.msg("{0}th rating page, spent {1}".format(counter, finish_time-start_time))
+            #counter += 1
+
 
 
 
@@ -167,8 +173,8 @@ def redis_select_test(*args, **kwargs):
     person_count = end_person_id - start_person_id + 1
     log.msg("person_count: selecting {0} rating pages X {1} persons".format(page_count, person_count))
     for i in range(page_count):
-        page_index = random.randint(0, person_count/10)
         for person_id in range(start_person_id, end_person_id + 1):
+            page_index = random.randint(0, person_count/10)
             yield redis_weekly_tournament.get_weekly_tournament_page(person_id, page_index)
 
 
@@ -216,9 +222,12 @@ def main():
         else:
             defer_list = []
             person_count = int(test_data["person_count"])
+            shift = 0
+            if "shift" in test_data:
+                shift = int(test_data["shift"])
             for j in range(args.concurrency):
-                test_data["start_person_id"] = j * (person_count/args.concurrency)
-                test_data["end_person_id"] = (j + 1) * (person_count/args.concurrency) - 1
+                test_data["start_person_id"] = j * (person_count/args.concurrency) + shift
+                test_data["end_person_id"] = (j + 1) * (person_count/args.concurrency) - 1 + shift
                 log.msg("Starting concurrent test {0} #{1}. start_person_id is {2}, end_person_id is {3}".format(\
                         args.do_test, j + 1, test_data["start_person_id"], test_data["end_person_id"]))
                 d = supported_tests[args.do_test](**test_data)
